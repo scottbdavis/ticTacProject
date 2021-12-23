@@ -1,5 +1,5 @@
 # ticTacProject
-##1. I would like to implement a feature that stated "Player X it is your turn now" and maybe an audio clip of hoot and holler after one of the players wins.
+1. I would like to implement a feature that stated "Player X it is your turn now" and maybe an audio clip of hoot and holler after one of the players wins.
 
 introduce a variable - nextPlayerAlert and use the same logic as current playerTurn but with player == '1' ternary - opposite of the current player =='0'
 
